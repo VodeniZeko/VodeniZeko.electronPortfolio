@@ -19,7 +19,6 @@ export default {
     name: "Code",
     props: ["coin", "index"],
     data(){
-        console.log(this.coin.name, `we made it yay`)
         return {
             size: Number(150),
             data: `Name: ${this.coin.name} 
