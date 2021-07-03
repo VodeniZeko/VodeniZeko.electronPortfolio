@@ -21,7 +21,6 @@ v14.17.1
 
 ### Operating System
 ```
-vodenizeko@BunnyMac ~ % sw_vers
 ProductName:	Mac OS X
 ProductVersion:	10.15.7
 BuildVersion:	19H1217
