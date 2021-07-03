@@ -1,24 +1,29 @@
-# electron-app
+# Vodenizeko.electronPortfolio
 
-## Project setup
-```
-npm install
+## Instructions
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+1. clone repo:
+   git@github.com:VodeniZeko/VodeniZeko.electronPortfolio.git
+
+2. Run npm install or yarn install inside the root directory
+
+3. Run the project with:
+   npm run electron:serve or yarn electron:serve
 ```
 
-### Compiles and minifies for production
+## Node version
+
 ```
-npm run build
+v14.17.1
 ```
 
-### Lints and fixes files
+
+### Operating System
 ```
-npm run lint
+vodenizeko@BunnyMac ~ % sw_vers
+ProductName:	Mac OS X
+ProductVersion:	10.15.7
+BuildVersion:	19H1217
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
