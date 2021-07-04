@@ -1,6 +1,6 @@
 <template>
-<div class="flex flex-col bg-red-400 items-center text-center w-full h-screen">
-  <div class="py-5">
+<div class="flex flex-col items-center text-center w-full">
+  <div class="py-2">
       <p class="text-2xl font-mono py-10">{{name}}</p>
       <qr-code 
         :text=name
@@ -10,7 +10,7 @@
         error-level="L">
       </qr-code>
       </div>
-    <div v-if=!loading class="flex space-x-12 my-12" >
+    <div v-if=!loading class="flex space-x-12 py-2" >
         <Code 
           v-for="(crypto, i) in cryptos.length"
           :key="crypto[i]"

@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-100">
+    <div class="bg-gray-300">
         <div class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
           <p class="text-gray-500 text-sm text-center sm:text-left">© 2021 Copyright:
             <a href="https://edvin.netlify.app/" class="text-gray-600 ml-1" target="_blank">Edvin Saletovic</a>
