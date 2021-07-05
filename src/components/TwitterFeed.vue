@@ -1,13 +1,13 @@
 <template>
-  <div class="font-sans container py-2 mx-auto">
-      <div class="w-full md:w-3/5 mx-auto p-8 ">
+  <div class="font-sans  py-2 mx-auto bg-gray-100">
+      <div class="w-full md:w-2/5 mx-auto p-8 ">
          <div class="shadow-md bg-gray-50">
             <div class="tab w-full overflow-hidden border-t">
                <input class="absolute opacity-0 " id="tab-multi-one" type="checkbox" name="tabs">
                <label class="block p-5 leading-normal cursor-pointer" for="tab-multi-one">
                    <a href="https://twitter.com/ethereum/status/1324087600349696002">@Ethereum - <i class="fab fa-twitter text-blue-500"></i></a>
                </label>
-               <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal">
+               <div class="tab-content overflow-hidden border-l-2 bg-gray-100 border-indigo-500 leading-normal ">
                   <p class="p-5"><span class="text-blue-700" >#Ethereum</span> ’s Serenity upgrade, the Beacon Chain’s deposit contract, is live. This begins a transition to <a href="https://twitter.com/hashtag/Eth2?src=hash&amp;ref_src=twsrc%5Etfw"><span class="text-blue-700" >#Eth2</span></a>.<a href="https://twitter.com/ethdotorg?ref_src=twsrc%5Etfw"><span class="text-blue-700" >@EthDotOrg</span></a> Guide: <a class="underline" href="https://t.co/PkKwLnXKS4">https://t.co/PkKwLnXKS4</a><br>Launchpad: <a class="underline" href="https://t.co/CFgFwAs46f">https://t.co/CFgFwAs46f</a><br>Deposit Contract Address: 0x00000000219ab540356cBB839Cbe05303d7705Fa</p>
                </div>
             </div>
